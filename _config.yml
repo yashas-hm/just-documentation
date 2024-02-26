@@ -6,9 +6,7 @@ description: "Explore DentaVacation's allure through captivating app screenshots
 #   email: yashashm.dev@gmail.com
 
 google_analytics:
+show_downloads: false
 
-
-remote-theme: "dracula/gh-pages"
-show_header: false
-colorspace: cyan
-# color-scheme: ["auto-default-dark"]
+remote-theme: "godalming123/minimal"
+color-scheme: "auto-default-dark"
