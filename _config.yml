@@ -6,4 +6,4 @@ description: "Explore DentaVacation's allure through captivating app screenshots
 #   email: yashashm.dev@gmail.com
 
 remote_theme: "godalming123/minimal"
-color-scheme: ["dark"]
+color-scheme: ["auto-default-dark"]
