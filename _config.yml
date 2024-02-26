@@ -9,4 +9,4 @@ google_analytics:
 show_downloads: false
 
 remote-theme: "godalming123/minimal"
-color-scheme: "auto-default-dark"
+color-scheme: "dark"
