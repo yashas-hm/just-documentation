@@ -4,7 +4,8 @@ description: "Explore DentaVacation's allure through captivating app screenshots
 # author:
 #   name: Yashas H Majmudar
 #   email: yashashm.dev@gmail.com
-
+remote-theme: dracula/gh-pages
 google_analytics:
-theme: jekyll-theme-minimal
+show_header: false
+colorspace: cyan
 # color-scheme: ["auto-default-dark"]
