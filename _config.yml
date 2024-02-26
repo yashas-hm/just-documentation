@@ -5,5 +5,6 @@ description: "Explore DentaVacation's allure through captivating app screenshots
 #   name: Yashas H Majmudar
 #   email: yashashm.dev@gmail.com
 
-remote_theme: "godalming123/minimal"
-color-scheme: ["auto-default-dark"]
+google_analytics:
+theme: jekyll-theme-minimal
+# color-scheme: ["auto-default-dark"]
