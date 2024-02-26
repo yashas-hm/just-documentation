@@ -1,1 +1,8 @@
+title: DentaVacation
+author:
+  name: Yashas H Majmudar
+  email: yashashm.dev@gmail.com
 
+remote_theme: jekyll/minima
+minima:
+  skin: auto
