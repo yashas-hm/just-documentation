@@ -99,9 +99,3 @@ Dentavacation was crafted using cutting-edge technologies to provide you with a 
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss18.png" width="200" alt="Edit Health Goals 2">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss17.png" width="200" alt="Edit Biological Information">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss20.png" width="200" alt="Edit Profile">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss11.png" width="200" alt="Clinic Loading">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss12.png" width="200" alt="Clinic Details">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss13.png" width="200" alt="Blog Details">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss14.png" width="200" alt="Search Clinic">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss41.png" width="200" alt="Favourit Clinics and Blogs">
-
