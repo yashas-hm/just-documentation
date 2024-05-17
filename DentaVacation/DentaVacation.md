@@ -12,9 +12,9 @@ Download now and unlock dental tourism effortlessly. Your confident smile awaits
 
 🔍 **Search Clinic**: Find the perfect dental clinic near you with ease.
 
-💬 **Community Forum**: Ask questions and connect with others in our dental community.
+💬 **Community Forum**: Ask questions and connect with others in a dental community.
 
-📚 **Read Dental Blogs**: Stay informed and educated with our informative dental blogs.
+📚 **Read Dental Blogs**: Stay informed and educated with informative dental blogs.
 
 💰 **Exclusive Discounts**: Enjoy exclusive discounts on dental services.
 
