@@ -1,8 +1,6 @@
 # MTC App:
 
-
-
-### Features
+## Features
 
 🔍 **Search Clinic**: Find the perfect dental clinic near you with ease.
 
@@ -16,7 +14,7 @@
 
 💬 **Zoho Chat Integration**: Instantly talk to an operator for immediate assistance.
 
-### Tech Used
+## Tech Used
 
 Dentavacation was crafted using cutting-edge technologies to provide you with a seamless experience:
 
@@ -25,25 +23,21 @@ Dentavacation was crafted using cutting-edge technologies to provide you with a 
 - **Database**: SQL, MariaDB
 - **Additional Tools**: Firebase for authentication and Zoho Chat for real-time communication
 
-### Glimpses of DentaVacation
-
-#### Splash and Permissions Screen
-
+## Glimpses of Med Tourism Co. App
+### Splash and Permissions Screen
 []()
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss66.png" width="200" alt="Splash">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss64.png" width="200" alt="Location">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss65.png" width="200" alt="Health Tracking">
 
-#### SignIn and SignUps
-
+### SignIn and SignUps
 []()
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss53.png" width="200" alt="Login Screen">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss55.png" width="200" alt="SignIn">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss54.png" width="200" alt="SignUp">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss56.png" width="200" alt="Registration">
 
-#### Onboarding Screens
-
+### Onboarding Screens
 []()
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss57.png" width="200" alt="Clinic Or Health">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss58.png" width="200" alt="Activity Level">
@@ -53,19 +47,9 @@ Dentavacation was crafted using cutting-edge technologies to provide you with a 
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss62.png" width="200" alt="Macros">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss63.png" width="200" alt="Allow Activity Track">
 
-#### Clinics Page
+## Health View
 
-[]()
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss39.png" width="200" alt="Clinics and Blogs">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss40.png" width="200" alt="Procedure Search">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss41.png" width="200" alt="Location Search">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss45.png" width="200" alt="Clinic Details">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss46.png" width="200" alt="Blog Details">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss42.png" width="200" alt="Search Clinic">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss67.png" width="200" alt="Favourit Clinics and Blogs">
-
-#### Nutrient Tracker
-
+### Nutrient Tracker
 []()
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss3.png" width="200" alt="Calories">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss4.png" width="200" alt="Macros 1">
@@ -77,8 +61,7 @@ Dentavacation was crafted using cutting-edge technologies to provide you with a 
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss1.png" width="200" alt="Sleep Data">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/water.gif" width="200" alt="Water Glass">
 
-#### Meal Planner
-
+### Meal Planner
 []()
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss9.png" width="200" alt="Meal Plan">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss10.png" width="200" alt="Suggetsed Meals">
@@ -86,16 +69,31 @@ Dentavacation was crafted using cutting-edge technologies to provide you with a 
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss13.png" width="200" alt="Meal Details">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss12.png" width="200" alt="Choose Serving">
 
-#### Discussion Forum
+## Alternate Health View
+[]()
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss70.png" width="200" alt=FitHub">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss71.png" width="200" alt="Meal Planner">
 
+## Clinic View
+
+### Clinics Page
+[]()
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss39.png" width="200" alt="Clinics and Blogs">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss40.png" width="200" alt="Procedure Search">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss41.png" width="200" alt="Location Search">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss45.png" width="200" alt="Clinic Details">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss46.png" width="200" alt="Blog Details">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss42.png" width="200" alt="Search Clinic">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss67.png" width="200" alt="Favourit Clinics and Blogs">
+
+### Discussion Forum
 []()
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss43.png" width="200" alt="Topics">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss44.png" width="200" alt="Post">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss68.png" width="200" alt="Reply">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss69.png" width="200" alt="Comment">
 
-#### Profile and Settings
-
+### Profile and Settings
 []()
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss14.png" width="200" alt="Profile">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss15.png" width="200" alt="Settings">
