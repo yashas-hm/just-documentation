@@ -71,9 +71,10 @@ Dentavacation was crafted using cutting-edge technologies to provide you with a 
 
 ## Alternate Health View
 []()
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss70.png" width="200" alt=FitHub">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss71.png" width="200" alt="Meal Planner">
-
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss23.png" width="200" alt="Meal Planner">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss22.png" width="200" alt="FitHub">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss24.png" width="200" alt="Profile">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss25.png" width="200" alt="Settings">
 ## Clinic View
 
 ### Clinics Page
@@ -84,14 +85,14 @@ Dentavacation was crafted using cutting-edge technologies to provide you with a 
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss45.png" width="200" alt="Clinic Details">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss46.png" width="200" alt="Blog Details">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss42.png" width="200" alt="Search Clinic">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss67.png" width="200" alt="Favourit Clinics and Blogs">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss26.png" width="200" alt="Favourit Clinics and Blogs">
 
 ### Discussion Forum
 []()
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss43.png" width="200" alt="Topics">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss44.png" width="200" alt="Post">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss68.png" width="200" alt="Reply">
-<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss69.png" width="200" alt="Comment">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss28.png" width="200" alt="Reply">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss29.png" width="200" alt="Comment">
 
 ### Profile and Settings
 []()
