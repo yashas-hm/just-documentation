@@ -72,9 +72,15 @@ Dentavacation was crafted using cutting-edge technologies to provide you with a 
 ## Alternate Health View
 []()
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss23.png" width="200" alt="Meal Planner">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss30.png" width="200" alt="Report Tracker">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss31.png" width="200" alt="Macro 1">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss32.png" width="200" alt="Macro 2">
+<img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss25.png" width="200" alt="Settings">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss22.png" width="200" alt="FitHub">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss24.png" width="200" alt="Profile">
 <img src="https://raw.githubusercontent.com/yashas-hm/just-documentation/main/MedTourismCo/images/ss25.png" width="200" alt="Settings">
+
+
 ## Clinic View
 
 ### Clinics Page
