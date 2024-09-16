@@ -23,6 +23,9 @@ Dentavacation was crafted using cutting-edge technologies to provide you with a 
 - **Database**: SQL, MariaDB
 - **Additional Tools**: Firebase for authentication and Zoho Chat for real-time communication
 
+## Backend API Documentation
+[Swagger UI](https://app.medicaltourismco.com/api/v1/docs/)
+
 ## Glimpses of Med Tourism Co. App
 ### Splash and Permissions Screen
 []()
